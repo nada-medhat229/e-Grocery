@@ -1,5 +1,5 @@
 {
-  "name": "cars",
+  "name": "EGrocery",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,12 +8,15 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^40.0.0",
+    "@ckeditor/ckeditor5-vue": "^5.1.0",
     "@mdi/font": "5.9.55",
     "@popperjs/core": "^2.11.8",
     "bootstrap": "^5.3.2",
     "core-js": "^3.8.3",
     "popper.js": "^1.16.1",
     "roboto-fontface": "*",
+    "vue-quill-editor": "^3.0.6",
     "vue-router": "^4.0.3",
     "vuetify": "^3.0.0-beta.0",
     "vuex": "^4.0.0",
